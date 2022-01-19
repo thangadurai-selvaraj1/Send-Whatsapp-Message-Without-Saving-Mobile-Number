@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Whatsapp Without Saving Number</string>
+
+    <string name="send_whatsapp_message_without_saving_mobile_number">Send whatsapp message without saving mobile number</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="message_optional">Message (Optional)</string>
+    <string name="send">Send</string>
+
+    <!--Validation txt-->
+    <string name="please_enter_mobile_number">Please enter mobile number!</string>
+    <string name="please_enter_valid_mobile_number">Please enter valid mobile number!</string>
+
+
+
+</resources>
